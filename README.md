@@ -4,31 +4,33 @@ NFL Health Safety -Helmet Assignment　[コンペ](https://www.kaggle.com/c/nfl-
 のリポジトリ
 
 ![](https://qph.fs.quoracdn.net/main-qimg-436d1af783a7ef280724efb3628b2543)
+
+本当はコンペのトップの画像貼りたいけどリンクがなかったのでいったんRNAの複製のgifで代用
 * result
 
-* directory tree
-NFL Health Safety
--README.md
--dat
--nb
--nb_download
--src
-
-# ipelline
-* 実行例
-
-* 結果の表事例
-
-# Info
-*
-
-*
-#Dataset
-```bash
-git clone https://github.com/~
-cd exapmles
-python demo.py
+- directory tree
 ```
+kaggle-NFL-Health-Safety
+├── README.md
+├── data         <---- gitで管理するデータ
+├── data_ignore  <---- .gitignoreに記述されているディレクトリ(モデルとか、特徴量とか、データセットとか)
+├── nb           <---- jupyter lab で作業したノートブック
+├── nb_download  <---- ダウンロードした公開されているkagglenb
+└── src          <---- .ipynb 以外のコード
+```
+
+## Pipelline
+- 実行例
+
+- 結果の表示例
+
+## Info
+特になし
+
+## Dataset
+|Name|Detail|Ref|
+|---|---|---|
+|データセットの名前|データセットの説明|データセットの参照元|
 
 
 
