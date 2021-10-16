@@ -3,9 +3,8 @@
 NFL Health Safety -Helmet Assignment　[コンペ](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment)
 のリポジトリ
 
-![](https://qph.fs.quoracdn.net/main-qimg-436d1af783a7ef280724efb3628b2543)
+![](https://github.com/utibori-jp/kaggle-NFL-Health-Safety/blob/main/NFL_HELTH.png)
 
-本当はコンペのトップの画像貼りたいけどリンクがなかったのでいったんRNAの複製のgifで代用
 * result
 
 - directory tree
