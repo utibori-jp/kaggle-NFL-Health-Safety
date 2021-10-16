@@ -3,7 +3,7 @@
 NFL Health Safety -Helmet Assignment　[コンペ](https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment)
 のリポジトリ
 
-![](https://github.com/utibori-jp/kaggle-NFL-Health-Safety/blob/main/NFL_HELTH.png)
+![](https://github.com/utibori-jp/kaggle-NFL-Health-Safety/blob/main/data/info/images/NFL_HELTH.png)
 
 * result
 
