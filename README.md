@@ -23,7 +23,7 @@ kaggle-NFL-Health-Safety
 
 National Football League（NFL）とAmazon Web Services（AWS）が協力して、最高のスポーツ傷害監視・軽減プログラムを開発しています。これまでの大会では、Kaggleはヘルメットの衝撃を検出するのに役立ちました。次のステップとして、NFLは各ヘルメットに特定の選手を割り当てたいと考えています。そうすれば、フットボールのプレー中の各選手の「エクスポージャー」を正確に把握することができます。
 
-
+![](https://storage.googleapis.com/kaggle-media/competitions/NFL%20player%20safety%20analytics/assingment_example.gif.gif)
 
 現在、NFLは毎年、プレーのサブセットに手動で注釈を付け、各選手のエクスポージャーのサンプルを決定しています。このプログラムを拡大するには、現在の選手割り当てでは、選手の位置を決定するためにフィールドマップが必要です。NFLは、マッピングのステップを必要としない、このモデルの精度に合わせることに興味を持っています。NFLは、個々の選手を識別するより良い方法を発明するために、Kagglersに呼びかけています。
 
@@ -98,6 +98,7 @@ dis：前の時点からの移動距離（単位：ヤード）。
 o：選手の向き（deg）。
 dir：選手の動きの角度（deg）。
 event: スナップ、ホイッスルなどのゲームイベント
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F3258%2F820e86013d48faacf33b7a32a15e814c%2FIncreasing%20Dir%20and%20O.png?generation=1572285857588233&alt=media)
 
 ## Log
 ### 2021/10/19
