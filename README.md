@@ -31,7 +31,8 @@ kaggle-NFL-Health-Safety
 |---|---|---|
 |データセットの名前|データセットの説明|データセットの参照元|
 
-
+# Reference
+* [NFL Starter EDA](https://www.kaggle.com/illgamhoduck/nfl-starter-eda/notebook) written by DUCKY
 
 
 
