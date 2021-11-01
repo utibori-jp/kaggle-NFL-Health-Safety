@@ -108,10 +108,15 @@ event: スナップ、ホイッスルなどのゲームイベント
  ### 2021/10/20
  * 昨日まで読んでいたコードの写経が終わった
  * コンペで与えられたデータを全てgithubにインポートしようと思ったが、データサイズがあまりにも大きくインポートできなかったので諦めた。リンクだけでも貼っておいた方がいいとは思ったが、いったん放置。
+ ### 2021/11/1
+ * ここ数日普通にlogをさぼっていたため日にちが飛んでる。
+ * とりあえず何か提出しないといけないので、deepsortを用いたものを出した。
+ 
 
 
 ## Reference
 * [NFL Starter EDA](https://www.kaggle.com/illgamhoduck/nfl-starter-eda/notebook)
 * [Tuning DeepSort + Helmet Mapping_high_score](https://www.kaggle.com/jianghanhan/tuning-deepsort-helmet-mapping-high-score)
 * [Camera-Tracking Matching with Gradient Descent](https://www.kaggle.com/coldfir3/camera-tracking-matching-with-gradient-descent)
+* [NFL helmet with Yolov5-deepsort starter](https://www.kaggle.com/s903124/nfl-helmet-with-yolov5-deepsort-starter)
 
